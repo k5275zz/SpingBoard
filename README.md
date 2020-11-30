@@ -2,7 +2,7 @@
 
 <h3>게시판 글쓰기, 리스트, 상세페이지, 수정 및 삭제</h3>
 <hr>
-<p>DTO : 변수를 담고 넘겨주는 역활 (bean) <br>
+<p>DTO : <i>변수를 담고 넘겨주는 역활 (bean)</i> <br>
 DAO.java,DAO.xml : sql문 로직을 실행 (model)<br>
 Service, ServiceImpl : model > Service를 거쳐 처리한다. Tier3방식을 이용해 메소드를 한번 더 거쳐 보안성이 좋아진다.<br>
 write.jsp : 글쓰기 페이지<br>
